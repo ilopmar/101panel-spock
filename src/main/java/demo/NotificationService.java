@@ -1,0 +1,6 @@
+package demo;
+
+public interface NotificationService {
+
+    void sendNotification(User user, String message);
+}
